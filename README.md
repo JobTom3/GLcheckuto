@@ -9,7 +9,6 @@
 `GLADOS_COOKIE`多个账号需使用 '&' 隔开，示例：cookie&cookie
 
 
-
 # Github Actions
 
 1. 点击右上角 **fork** 按钮
